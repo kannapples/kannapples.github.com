@@ -1,0 +1,9 @@
+name: Claire Kannapell
+title: Claire Kannapell
+description: Portfolio
+url: https://clairekannapell.com
+
+sass:
+  sass_dir: _scss
+
+disable_disk_cache: true
